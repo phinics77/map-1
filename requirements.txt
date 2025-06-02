@@ -4,3 +4,4 @@ folium_static
 folium
 MarkerCluster
 pandas
+plotly
