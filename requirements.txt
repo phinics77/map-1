@@ -5,3 +5,5 @@ folium
 MarkerCluster
 pandas
 plotly
+yfinance
+prophet
