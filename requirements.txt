@@ -1,9 +1,5 @@
+plotly
 streamlit
 streamlit_folium
-folium_static
 folium
-MarkerCluster
 pandas
-plotly
-yfinance
-prophet
